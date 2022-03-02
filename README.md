@@ -1,6 +1,10 @@
 ### Hi there 👋 Eu sou José Santos🐱‍👤🐱‍💻
 
-- 📫 How to reach me: jose.santoscj267@gmail.com
+<h2> How to reach me: </h2>
+<ul>
+ <li> 📫 jose.santoscj267@gmail.com</li>
+ <li>⏰ https://www.linkedin.com/in/jos%C3%A9-santos-4303a1164/</li>
+ </ul>
 
  <div>
   <a href="https://github.com/sjunior267">

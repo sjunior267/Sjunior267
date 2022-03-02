@@ -29,5 +29,6 @@
  <a href = "https://www.linkedin.com/in/jos%C3%A9-santos-4303a1164/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
  </div>
  
+ <img src="https://i.pinimg.com/originals/9e/28/a1/9e28a18b8409a458a16f7f0b1f435b77.gif">
  
  
